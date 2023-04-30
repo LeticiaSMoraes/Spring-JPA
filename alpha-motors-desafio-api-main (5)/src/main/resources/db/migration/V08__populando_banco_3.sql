@@ -1,0 +1,8 @@
+INSERT INTO tb_veiculo (id, marca, modelo, ano, cor, descricao, quantidade, preco_custo, preco_venda)
+	VALUES(1, 'Alpha Motors', 'GROWING_UP', '2022', 'BRANCO', 'Para mulheres que buscam seu primeiro veículo. O GROWING_UP possui duas portas, fechamento de vidros manual, câmbio manual, tamanho compacto e motor 1.0 - flex', 10, 5000, 30000);
+INSERT INTO tb_veiculo (id, marca, modelo, ano, cor, descricao, quantidade, preco_custo, preco_venda)
+	VALUES(2, 'Alpha Motors', 'SINGLE_LADY', '2022', 'VERMELHO', 'O utilitário ideal aproveitar a vida! O SINGLE_LADY, possui quatro portas, fechamento de vidros automático, câmbio manual e tamanho médio, cores personalizadas, painel com multimídia, bancos de couro e motor 1.6 - Flex', 6, 7000, 45000);
+INSERT INTO tb_veiculo (id, marca, modelo, ano, cor, descricao, quantidade, preco_custo, preco_venda)
+	VALUES(3, 'Alpha Motors', 'SINGLE_LADY', '2022', 'AZUL', 'Aquele SUV que você merece! O DOING_RIGHT possui quatro portas, fechamento de vidros automático, câmbio automâtico e tamanho médio, cores personalizadas, painel com multimídia de alta tecnologia, bancos de couro e motor 2.0 - Flex', 5, 20000, 75000);
+INSERT INTO tb_veiculo (id, marca, modelo, ano, cor, descricao, quantidade, preco_custo, preco_venda)
+	VALUES(4, 'Alpha Motors', 'MOMMY', '2022', 'PRATA', 'Acompanhando você a cada etapa. O MOMMY possui quatro portas, 7 lugares, fechamento de vidros automático, airBags tipo cortina lateral e frontal, tamanho grande, painel com multimídia incluídos nos bancos traseiros, bancos laváveis e motor 2.0 - Flex', 5, 12000, 70000);
